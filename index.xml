@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.01" name="WotR" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <repositoryUrls/>
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Lord_of_the_Rings_-_War_of_the_Ring.gstz" dataType="gamesystem" dataId="ce85-7e7f-1b5c-08e5" dataName="Lord of the Rings - War of the Ring" dataBattleScribeVersion="2.01" dataRevision="2"/>
+  </dataIndexEntries>
+</dataIndex>
